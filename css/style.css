@@ -87,6 +87,9 @@
 	font-size: 1rem;
 	background-color: #fcfcfc;
 	border: 1px solid #f7f7f7;
+	border-radius: 0;
+	appearance: none;
+	-webkit-appearance: none;
 }
 
 .add__desc-input {
